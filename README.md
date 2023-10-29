@@ -1,5 +1,5 @@
-# Module: MMM-Snow
-Inspired by [NHubbard's Snow Plugin](https://github.com/nhubbard/MagicPlugins/tree/master/snow) I created a little more realistic snow plugin to improve your winter experience! 
+# Module: MMM-Hearts
+Inspired by MMM-SNOW but i wanted to be able to have multiple instances So i modified it to be only hearts to see if it works.
 
 The module supports themes. Current themes are *winter* and *love*. The first one let's it snow while the latter conjurs hearts on your mirror.  
 
@@ -37,7 +37,7 @@ To use this module, add it to the modules array in the `config/config.js` file:
 ````javascript
 modules: [
 	{
-		module: 'MMM-Snow',
+		module: 'MMM-Hearts',
 		position: 'fullscreen_above',
 		config: { // See 'Configuration options' for more information.
 			flakeCount: 100,
