@@ -13,7 +13,7 @@ Module.register("MMM-Hearts",{
 
 	defaults: {
 		flakeCount: 100,
-		theme: "winter"                 // pick from themes map below, i.e. winter, love
+		theme: "love"                 // pick from themes map below, i.e. winter, love
 	},
 
 	themes: {
@@ -25,7 +25,7 @@ Module.register("MMM-Hearts",{
 		"love"   : { 
 			"flakePrefix" : "heart",    // prefix of css name, e.g. heart1 
 			"imagesCount"  : 2,         // number of images in this theme, here:  heart1, heart2
-			"downwards"    : false,     // direction of flake movements, hearts raise upwards			
+			"downwards"    : true,     // direction of flake movements, hearts raise upwards			
 			"sizeFactor"   : 2},        // adapt size of flakes to your liking, we like bigger hearts
 		"water"   : { 
 			"flakePrefix" : "bubble",   // prefix of css name, e.g. bubble1 
