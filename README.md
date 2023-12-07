@@ -1,8 +1,6 @@
 # Module: MMM-Hearts
 Inspired by MMM-SNOW but i wanted to be able to have multiple instances So i modified it to be only hearts to see if it works.
 
-*Currently not 100% operational
-
 **Screenshot theme "winter"**
 
 ![](.github/example-winter.png)
