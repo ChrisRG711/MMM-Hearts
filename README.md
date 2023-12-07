@@ -1,18 +1,6 @@
 # Module: MMM-Hearts
 Inspired by MMM-SNOW but i wanted to be able to have multiple instances So i modified it to be only hearts to see if it works.
 
-**Screenshot theme "winter"**
-
-![](.github/example-winter.png)
-
-**Screenshot theme "love"**
-
-![](.github/example-love.png)
-
-**Screenshot theme "water"**
-
-![](.github/example-water.png)
-
 ## Installation
 
 In your terminal, go to your MagicMirror's Module folder:
@@ -22,7 +10,7 @@ cd ~/MagicMirror/modules
 
 Clone this repository:
 ````
-git clone https://github.com/MichMich/MMM-Snow.git
+git clone https://github.com/ChrisRG711/MMM-Hearts
 ````
 
 Configure the module in your `config.js` file.
