@@ -1,18 +1,18 @@
-.MMM-HEARTS .flake-downwards {
+.MMM-Hearts .flake-downwards {
     position: absolute;
     top: -50px;
     animation-name: flake-downwards;
     animation-iteration-count: infinite;
 }
 
-.MMM-HEARTS .flake-upwards {
+.MMM-Hearts .flake-upwards {
     position: absolute;
     top: -50px;
     animation-name: flake-upwards;
     animation-iteration-count: infinite;
 }
 
-.MMM-HEARTS *[class|="flake"] div {
+.MMM-Hearts *[class|="flake"] div {
     width: 20px;
     height: 20px;
 
@@ -23,14 +23,14 @@
     animation-iteration-count: infinite;
 }
 
-.MMM-HEARTS .snow1 {background-image: url('images/snow1.png');}
-.MMM-HEARTS .snow2 {background-image: url('images/snow2.png');}
-.MMM-HEARTS .snow3 {background-image: url('images/snow3.png');}
+.MMM-Hearts .snow1 {background-image: url('images/snow1.png');}
+.MMM-Hearts .snow2 {background-image: url('images/snow2.png');}
+.MMM-Hearts .snow3 {background-image: url('images/snow3.png');}
 
-.MMM-HEARTS .heart1 {background-image: url('images/heart1.png');}
-.MMM-HEARTS .heart2 {background-image: url('images/heart2.png');}
+.MMM-Hearts .heart1 {background-image: url('images/heart1.png');}
+.MMM-Hearts .heart2 {background-image: url('images/heart2.png');}
 
-.MMM-HEARTS .bubble1 {background-image: url('images/bubble1.png');}
+.MMM-Hearts .bubble1 {background-image: url('images/bubble1.png');}
 
 @keyframes flake-downwards {
     from {transform: translateY(0vh)}
